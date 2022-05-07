@@ -1,2 +1,1 @@
-# bonfire
-No more humming in the bonfire!
+To deploy to production, just push to the "main" branch
